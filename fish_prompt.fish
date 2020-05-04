@@ -1,4 +1,5 @@
 set -g pad " "
+set -g default_user kfuntov
 
 ## Function to show a segment
 function prompt_segment -d "Function to show a segment"
